@@ -1472,9 +1472,9 @@ blockquote::before {
     opacity: 1;
   }
 
-  #hero-slide .carousel-item {
+  /* #hero-slide .carousel-item {
     height: inherit;
-  }
+  } */
 
   .carousel-control-prev {
     left: 12px;
